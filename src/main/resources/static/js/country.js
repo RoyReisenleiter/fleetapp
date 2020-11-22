@@ -6,3 +6,5 @@ $('document').ready(function(){
         });
 
 });
+
+//the javascript file we created
